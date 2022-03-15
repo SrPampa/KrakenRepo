@@ -1,4 +1,2 @@
-muy bien y tu 
-Esto es una copia 
+esto lo modifico desde git hub para ver que gitkraken lo recibe
 
-esto no me gusta pero se añade solo
